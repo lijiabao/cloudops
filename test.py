@@ -7,5 +7,5 @@ def test():
 			time.sleep(1)
 			i+=1
 			print('Syntax error. ')
-	except,e:
+	except e:
 		print e
